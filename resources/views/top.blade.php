@@ -8,7 +8,7 @@
         @include("parts.header")
 
         <main>
-            <h1>トップページです</h1>
+            <h1>トップページです。</h1>
         </main>
 
         @include("parts.footer")
